@@ -14,10 +14,10 @@ I specialize in data collection, processing, and comprehensive analysis. My goal
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Databases & ETL** | ![SQL](https://badgen.net) **SQL:** Writing, debugging, and optimizing complex queries for data extraction.<br>![Python](https://badgen.net) **Python:** Basic scripting for data wrangling, cleaning, and exploratory data analysis (EDA). |
-| **BI & Visualization** | ![Power BI](https://badgen.net) **Power BI:** Designing end-to-end analytics, working with DAX and Power Query Editor.<br>![Looker Studio](https://badgen.net) **Looker Studio:** Developing clean, user-friendly interactive charts and reports. |
-| **Spreadsheets** | ![Excel](https://badgen.net) **Advanced MS Excel:** Task automation via Power Query and VBA macros.<br>![Google Sheets](https://badgen.net) **Google Sheets:** Utilizing pivot tables, advanced functions, and array formulas. |
-| **Web Analytics** | ![Google Analytics](https://badgen.net) **Google Analytics** & **Yandex Metrika:** Analyzing web data to improve website conversion rates and user behavior paths. |
+| **Databases & ETL** | **SQL:** Writing, debugging, and optimizing complex queries for data extraction. <br>**Python:** Basic scripting for data wrangling, cleaning, and exploratory data analysis (EDA). |
+| **BI & Visualization** | **Power BI:** Designing end-to-end analytics, working with DAX and Power Query Editor. <br>**Looker Studio:** Developing clean, user-friendly interactive charts and reports. |
+| **Spreadsheets** | **Advanced MS Excel:** Task automation via Power Query and VBA macros. <br>**Google Sheets:** Utilizing pivot tables, advanced functions, and array formulas. |
+| **Web Analytics** | **Google Analytics** & **Yandex Metrika:** Analyzing web data to improve website conversion rates and user behavior paths. |
 
 ---
 
