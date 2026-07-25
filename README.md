@@ -6,7 +6,7 @@ I specialize in data collection, processing, and comprehensive analysis. My goal
 
 - 🔭 **Core Competencies:** Product & Web Analytics, Automated ETL pipelines, BI Systems, Data-driven Hypothesis Testing.
 - 💬 **Ask me about:** SQL optimizations, advanced Excel formulas, dashboard design principles, and web metrics.
-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/moldabayevm/) | [Telegram](https://t.me/MoldabayevM) | aes.220v@gmail.com
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/moldabayevm/) | [Telegram](https://t.me/@MoldabayevM) | aes.220v@gmail.com
 
 ---
 
