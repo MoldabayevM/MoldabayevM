@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm <a href="https://daniilshat.ru/" target="_blank">Medet</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoldabayevM) 
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/ginkun777)
+[![ODS.ai](https://img.shields.io/badge/ODS.ai-1E1E1E?style=for-the-badge&logoColor=white)](https://ods.ai/users/h8f9b49f5c4f2)
+<h2 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">Data Analyst | Python | SQL | Power BI</h3>
 
 I specialize in data collection, processing, and comprehensive analysis. My goal is to transform complex, messy datasets into clear, structured reports and interactive dashboards that drive strategic business decisions.
